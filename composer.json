@@ -1,0 +1,9 @@
+{
+    "name": "typo3/docs-homepage",
+    "type": "typo3-cms-documentation",
+    "description": "Cheat Sheets",
+    "license": "",
+    "require": {
+      "typo3/cms-core": "^10"
+    }
+}
