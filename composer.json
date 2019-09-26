@@ -4,6 +4,6 @@
     "description": "Cheat Sheets",
     "license": "",
     "require": {
-      "typo3/cms-core": "^9.5"
+      "typo3/cms-core": "^7.6"
     }
 }
