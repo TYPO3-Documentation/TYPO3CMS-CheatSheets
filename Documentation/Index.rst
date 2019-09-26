@@ -28,7 +28,7 @@ Cheat Sheets
 
 .. rst-class:: horizbuttons-primary-xxl
 
-*  `Jump to the cheat sheets <cheat-sheets>`__
+*  :ref:`Jump to the cheat sheets <cheat-sheets>`
 
 
 The content of this document is related to TYPO3 CMS, a GNU/GPL CMS/Framework
