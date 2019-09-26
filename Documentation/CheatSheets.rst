@@ -27,8 +27,8 @@ This overview presents the different stdWrap properties of a cObject.
 It uses the cObject "TEXT" as example to demonstrate where they are applied.
 
 
-* `Download <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/stdwrap.png>`__
-* `Edit <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/stdwrap.png>`__
+* `Download <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/7.6/Resources/Public/CheatSheets/stdwrap.png>`__
+* `Edit <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/7.6/Resources/Public/CheatSheets/stdwrap.png>`__
 
 stdWrap overview for menu objects
 ---------------------------------
@@ -38,8 +38,8 @@ stdWrap overview for menu objects
 This overview presents the different stdWrap properties of a menu. It uses the menu type
 "HMENU" as an example to demonstrate where they are applied.
 
-* `Download <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/stdwrap-menu.png>`__
-* `Edit <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/stdwrap-menu.png>`__
+* `Download <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/7.6/Resources/Public/CheatSheets/stdwrap-menu.png>`__
+* `Edit <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/7.6/Resources/Public/CheatSheets/stdwrap-menu.png>`__
 
 
 New Website Cheat Sheet
@@ -59,8 +59,8 @@ TYPO3 Page Includes
 
 An illustration of the different includes, which are supported by the Page renderer since TYPO3 4.3.
 
-* `Download <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.pdf>`__
-* `Edit <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.odp>`__
+* `Download <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/7.6/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.pdf>`__
+* `Edit <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/7.6/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.odp>`__
 
 
 Extbase / Fluid
@@ -100,7 +100,7 @@ Creating and using mocks with Prophecy in PHPUnit
 *by Oliver Klee*
 
 
-* `Download <https://github.com/oliverklee/tdd-reader/blob/master/AdditionalDocuments/prophecy-cheatsheet.pdf>`__
+* `Download <https://github.com/oliverklee/tdd-reader/blob/7.6/AdditionalDocuments/prophecy-cheatsheet.pdf>`__
 * `Repository <https://github.com/oliverklee/tdd-reader/>`__
 
 Creating and using mocks in PHPUnit
@@ -108,7 +108,7 @@ Creating and using mocks in PHPUnit
 
 *by Oliver Klee*
 
-* `Download <https://github.com/oliverklee/tdd-reader/blob/master/AdditionalDocuments/mocking-cheatsheet.pdf>`__
+* `Download <https://github.com/oliverklee/tdd-reader/blob/7.6/AdditionalDocuments/mocking-cheatsheet.pdf>`__
 * `Repository <https://github.com/oliverklee/tdd-reader/>`__
 
 
@@ -117,7 +117,7 @@ Test Driven Development with TYPO3 CMS
 
 *by Oliver Klee*
 
-* `Download <https://github.com/oliverklee/tdd-reader/blob/master/tdd-cheatsheet.pdf>`__
+* `Download <https://github.com/oliverklee/tdd-reader/blob/7.6/tdd-cheatsheet.pdf>`__
 * `Repository <https://github.com/oliverklee/tdd-reader/>`__
 
 
