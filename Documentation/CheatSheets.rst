@@ -27,8 +27,8 @@ This overview presents the different stdWrap properties of a cObject.
 It uses the cObject "TEXT" as example to demonstrate where they are applied.
 
 
-* `Download <https://github.com/TYPO3-Documentation/TYPO3-CheatSheets/tree/master/Resources/Public/CheatSheets/stdwrap.png>`__
-* `Edit <https://github.com/TYPO3-Documentation/TYPO3-CheatSheets/tree/master/Resources/Public/CheatSheets/stdwrap.png>`__
+* `Download <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/master/Resources/Public/CheatSheets/stdwrap.png>`__
+* `Edit <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/master/Resources/Public/CheatSheets/stdwrap.png>`__
 
 stdWrap overview for menu objects
 ---------------------------------
@@ -38,8 +38,8 @@ stdWrap overview for menu objects
 This overview presents the different stdWrap properties of a menu. It uses the menu type
 "HMENU" as an example to demonstrate where they are applied.
 
-* `Download <https://github.com/TYPO3-Documentation/TYPO3-CheatSheets/tree/master/Resources/Public/CheatSheets/stdwrap-menu.png>`__
-* `Edit <https://github.com/TYPO3-Documentation/TYPO3-CheatSheets/tree/master/Resources/Public/CheatSheets/stdwrap-menu.png>`__
+* `Download <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/master/Resources/Public/CheatSheets/stdwrap-menu.png>`__
+* `Edit <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/master/Resources/Public/CheatSheets/stdwrap-menu.png>`__
 
 
 New Website Cheat Sheet
@@ -59,8 +59,8 @@ TYPO3 Page Includes
 
 An illustration of the different includes, which are supported by the Page renderer since TYPO3 4.3.
 
-* `Download <https://github.com/TYPO3-Documentation/TYPO3-CheatSheets/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.pdf>`__
-* `Edit <https://github.com/TYPO3-Documentation/TYPO3-CheatSheets/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.odp>`__
+* `Download <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.pdf>`__
+* `Edit <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.odp>`__
 
 
 TCA
