@@ -71,7 +71,7 @@ Compact overview of TCA settings and values
 
 *by Stefan Frömken*
 
-
+Documentation is valid for TYPO3 4.2 until 7.6. Of cause most properties are still valid for TYPO3 8 and higher, but renderType for select-type is missing and noTableWrapping for user-type is gone.
 
 * `Download <http://www.typo3lexikon.de/fileadmin/templates/downloads/TCA-Cheat-Sheet-Schoko-Vanille-Mint.pdf>`__
 
