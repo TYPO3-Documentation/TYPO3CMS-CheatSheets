@@ -1,19 +1,14 @@
-============================================================
-Contents of the docs.typo3.org homepage and the "glue"-pages
-============================================================
+\|
+`Contributing <CONTRIBUTING.md>`__  \|
+`Help & Support <https://typo3.org/help>`__ \|
 
-:Repository:   https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage
+==================
+TYPO3 Cheat Sheets
+==================
 
-:Published:    https://docs.typo3.org/
+:Repository:   https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets
+
+:Published:    https://docs.typo3.org/m/typo3/docs-cheatsheets/master/en-us/
 
 :Authors:      TYPO3 Documentation Team
-
-:Rendered:     (automatically) `drafts/github/TYPO3-Documentation/DocsTypo3Org-Homepage
-               <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/DocsTypo3Org-Homepage/>`__
-
-:How to:       `How to publish
-               <https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/AtTheDocsServer/Administration/AboutTheHomepage/Index.html#manual-intervention-needed>`__
-
-:Rendered:     (manually) `drafts/github/TYPO3-Documentation/DocsTypo3Org-Homepage/0.0/
-               <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/DocsTypo3Org-Homepage/0.0/>`__
 
