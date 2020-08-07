@@ -13,7 +13,6 @@ TYPO3 CMS Cheat Sheets
    version of TYPO3 you are currently using.
    See `Usage tips: version selector <https://docs.typo3.org/Home/About/UsingThisSite/Index.html#version-selector>`__.
 
-
 TypoScript
 ==========
 
