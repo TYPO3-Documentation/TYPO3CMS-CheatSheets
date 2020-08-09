@@ -53,7 +53,7 @@ The cheat sheets are provided by the TYPO3 community.
    **Do you have a cheat sheet yourself or have you found an error
    or want to make a suggestion?**
 
-   Then don't hesitate to :ref:`contribute`
+   Then don't hesitate to :ref:`contribute <contribute>`
 
 **Credits**
 
