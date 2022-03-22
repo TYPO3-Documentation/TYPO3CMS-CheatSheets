@@ -1,19 +1,8 @@
-============================================================
-Contents of the docs.typo3.org homepage and the "glue"-pages
-============================================================
+==================
+TYPO3 Cheat Sheets
+==================
 
-:Repository:   https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage
+This is a collection of TYPO3 cheat sheets provided by the TYPO3 community.
 
-:Published:    https://docs.typo3.org/
-
-:Authors:      TYPO3 Documentation Team
-
-:Rendered:     (automatically) `drafts/github/TYPO3-Documentation/DocsTypo3Org-Homepage
-               <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/DocsTypo3Org-Homepage/>`__
-
-:How to:       `How to publish
-               <https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/AtTheDocsServer/Administration/AboutTheHomepage/Index.html#manual-intervention-needed>`__
-
-:Rendered:     (manually) `drafts/github/TYPO3-Documentation/DocsTypo3Org-Homepage/0.0/
-               <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/DocsTypo3Org-Homepage/0.0/>`__
-
+:Repository:  https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets
+:Read online: https://docs.typo3.org/m/typo3/docs-cheatsheets/8.7/en-us/
