@@ -1,17 +1,10 @@
-.. include:: Includes.txt
+.. include:: /Includes.rst.txt
 
 .. _cheat-sheets:
 
-======================
-TYPO3 CMS Cheat Sheets
-======================
-
-.. important::
-
-   The cheat sheets on this page refer to version |release| of TYPO3
-   CMS. Use the version selector on this page to select the
-   version of TYPO3 you are currently using.
-   See `Usage tips: version selector <https://docs.typo3.org/Home/About/UsingThisSite/Index.html#version-selector>`__.
+============
+Cheat Sheets
+============
 
 
 TypoScript
