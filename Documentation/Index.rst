@@ -1,69 +1,45 @@
-.. include:: Includes.txt
+.. include:: /Includes.rst.txt
 
 .. _start:
 
-============
-Cheat Sheets
-============
+==================
+TYPO3 Cheat Sheets
+==================
 
 :Version:
-      |release|
+   |release|
 
 :Language:
-      en
+   en
 
-:Description:
-      Cheat Sheets provided by the community
-
-:Audience:
-      Developers, Integrators
+:Author:
+   TYPO3 contributors
 
 :License:
-      Licenses and copyright as specified in the cheat sheet
+   This document is published under the
+   `Creative Commons BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`__
+   license.
 
-:Shortcut:
-      `t3cheatsheets` is the usual alias for
-      :ref:`cross-referencing <linktargets-explanation>`.
+:Rendered:
+   |today|
 
+----
 
-.. rst-class:: horizbuttons-primary-xxl
+This is a collection of TYPO3 cheat sheets provided by the TYPO3 community.
 
-*  :ref:`Jump to the cheat sheets <cheat-sheets>`
+----
 
-
-The content of this document is related to TYPO3 CMS, a GNU/GPL CMS/Framework
-available from https://typo3.org/.
-
-**About this manual**
-
-This section holds files, which are related to the TYPO3 CMS Core
-documentation, but which do not really fit into any specific manual.
-
-They contain concise information about one topic, usually on one or
-only a few pages.
-
-**Community Documentation**
-
-The cheat sheets are provided by the TYPO3 community.
-
-**Contribute**
-
-.. note::
-
-   **Do you have a cheat sheet yourself or have you found an error
-   or want to make a suggestion?**
-
-   Then don't hesitate to :ref:`contribute <contribute>`
-
-**Credits**
-
-The Documentation Team kindly thanks all authors for their work!
-
-TYPO3 - inspiring people to share.
-
-**Table of Contents**
+**Table of Contents:**
 
 .. toctree::
+   :maxdepth: 2
+
    CheatSheets
-   AboutContributing
+
+.. Meta Menu
+
+.. toctree::
+   :hidden:
+
    Sitemap
+   genindex
